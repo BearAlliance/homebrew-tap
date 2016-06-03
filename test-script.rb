@@ -10,7 +10,7 @@ class TestScript < Formula
 
 
   def install
-	bin.install "testscript"
+	bin.install "test-script"
   end
 
   test do
